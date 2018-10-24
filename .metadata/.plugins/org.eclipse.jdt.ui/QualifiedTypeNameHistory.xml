@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="java.sql.ResultSet"/>
+<fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+<fullyQualifiedTypeName name="java.sql.DriverManager"/>
+<fullyQualifiedTypeName name="com.neusoft.dao.BaseDao"/>
+<fullyQualifiedTypeName name="java.sql.SQLException"/>
+<fullyQualifiedTypeName name="com.neusoft.dao.user.IUserDao"/>
+<fullyQualifiedTypeName name="com.neusoft.biz.user.IUserBiz"/>
+<fullyQualifiedTypeName name="com.neusoft.biz.user.impl.UserBizImpl"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.neusoft.vo.user.UserInfo"/>
+<fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.zyy.vo.book.publisher"/>
+<fullyQualifiedTypeName name="com.zyy.vo.book.bookType"/>
+<fullyQualifiedTypeName name="com.zyy.vo.book.bookInfo"/>
+<fullyQualifiedTypeName name="com.zyy.dao.admin.IAdminDao"/>
+<fullyQualifiedTypeName name="com.zyy.dao.admin.impl.AdminDaoImpl"/>
+<fullyQualifiedTypeName name="com.zyy.vo.admin.AdminInfo"/>
+<fullyQualifiedTypeName name="com.zyy.biz.admin.IAdminBiz"/>
+<fullyQualifiedTypeName name="com.zyy.biz.admin.impl.AdminBizImpl"/>
+<fullyQualifiedTypeName name="com.zyy.dao.user.IUserDao"/>
+<fullyQualifiedTypeName name="com.zyy.dao.user.impl.UserDaoImpl"/>
+<fullyQualifiedTypeName name="com.zyy.biz.user.IUserBiz"/>
+<fullyQualifiedTypeName name="com.zyy.biz.user.impl.UserBizImpl"/>
+<fullyQualifiedTypeName name="com.zyy.vo.book.BookType"/>
+<fullyQualifiedTypeName name="com.zyy.vo.book.Publisher"/>
+<fullyQualifiedTypeName name="com.zyy.dao.book.IBookDao"/>
+<fullyQualifiedTypeName name="com.zyy.dao.book.impl.BookDaoImpl"/>
+<fullyQualifiedTypeName name="com.zyy.biz.book.IBookBiz"/>
+<fullyQualifiedTypeName name="com.zyy.biz.book.impl.BookBizImpl"/>
+<fullyQualifiedTypeName name="com.zyy.vo.book.BookInfo"/>
+<fullyQualifiedTypeName name="com.zyy.vo.user.UserInfo"/>
+</qualifiedTypeNameHistroy>

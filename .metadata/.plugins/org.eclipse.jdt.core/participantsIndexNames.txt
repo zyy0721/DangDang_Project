@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+D:\学\大四上\WorkSpace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3426386893.index
+\dangdang_project\src
+D:\学\大四上\WorkSpace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2830615768.index
+\HelloWorld\src
+D:\学\大四上\WorkSpace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3303252200.index
+\dangdang_server\src

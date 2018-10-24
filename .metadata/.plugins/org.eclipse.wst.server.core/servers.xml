@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v8.0 Server at localhost-config" deployDir="D:\Program Files\Tomcat8\apache-tomcat-8.0.50-windows-x64\webapps" hostname="localhost" id="Tomcat v8.0 Server at localhost" name="Tomcat v8.0 Server at localhost" runtime-id="Apache Tomcat v8.0" server-type="org.eclipse.jst.server.tomcat.80" server-type-id="org.eclipse.jst.server.tomcat.80" start-timeout="70" stop-timeout="15" testEnvironment="false" timestamp="10">
+    <list key="modules" value0="HelloWorld::org.eclipse.jst.jee.server:HelloWorld::jst.web::2.5" value1="dangdang_server::org.eclipse.jst.jee.server:dangdang_server::jst.web::2.5" value2="dangdang_project::org.eclipse.jst.jee.server:dangdang_project::jst.web::2.5"/>
+  </server>
+</servers>

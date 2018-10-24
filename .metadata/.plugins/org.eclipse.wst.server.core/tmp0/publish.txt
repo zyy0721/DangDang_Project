@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Tue Sep 25 23:08:05 CST 2018
+org.eclipse.jst.jee.server\:dangdang_project=D\:\\Program Files\\Tomcat8\\apache-tomcat-8.0.50-windows-x64\\webapps\\dangdang_project
+org.eclipse.jst.jee.server\:HelloWorld=D\:\\Program Files\\Tomcat8\\apache-tomcat-8.0.50-windows-x64\\webapps\\HelloWorld
+org.eclipse.jst.jee.server\:dangdang_server=D\:\\Program Files\\Tomcat8\\apache-tomcat-8.0.50-windows-x64\\webapps\\dangdang_server

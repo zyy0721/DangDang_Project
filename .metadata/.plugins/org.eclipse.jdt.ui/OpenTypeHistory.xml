@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=dangdang_server/src&lt;com.zyy.dao.admin{IAdminDao.java[IAdminDao" modifiers="513" timestamp="1535110113978"/>
+<typeInfo handle="=dangdang_server/src&lt;com.zyy.biz.admin{IAdminBiz.java[IAdminBiz" modifiers="513" timestamp="1535110872599"/>
+<typeInfo handle="=dangdang_server/D:\/Program Files\/JAVA\/jdk1.8.0_181\/jre\/lib\/rt.jar&lt;org.omg.PortableServer(IdUniquenessPolicyOperations.class[IdUniquenessPolicyOperations" modifiers="1537" timestamp="1534827752383"/>
+<typeInfo handle="=dangdang_server/src&lt;com.zyy.dao.user{IUserDao.java[IUserDao" modifiers="513" timestamp="1535112777528"/>
+<typeInfo handle="=dangdang_server/src&lt;com.zyy.biz.user{IUserBiz.java[IUserBiz" modifiers="513" timestamp="1535182946213"/>
+<typeInfo handle="=dangdang_server/src&lt;com.zyy.dao.book{IBookDao.java[IBookDao" modifiers="513" timestamp="1535249241645"/>
+<typeInfo handle="=dangdang_server/src&lt;com.zyy.dao{BaseDao.java[BaseDao" modifiers="1" timestamp="1535171344194"/>
+<typeInfo handle="=dangdang_server/src&lt;com.zyy.biz.book{IBookBiz.java[IBookBiz" modifiers="513" timestamp="1535249412372"/>
+</typeInfoHistroy>
